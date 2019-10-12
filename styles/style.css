@@ -32,5 +32,10 @@ h1 {
     color: #EF5324;
 }
 
+img {
+    display: block;
+    margin: 0 auto;
+}
+
 
 
