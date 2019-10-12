@@ -8,3 +8,4 @@ myImage.onclick = function() {
         myImage.setAttribute ('src', 'images/shiva.png')
     }
 }
+
