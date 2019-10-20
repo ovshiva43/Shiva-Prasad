@@ -25,6 +25,28 @@ body {
     border: 5px solid red;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+
+
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+
+
+}
+
+
+
+
 h1 {
     margin: 0;
     padding: 20 px 0;
@@ -35,6 +57,8 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+
 
 
 
