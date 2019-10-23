@@ -30,7 +30,7 @@ html {
 }
 
 body {
-    margin: 0 atuo;
+    margin: 0 auto;
     background-color: #EF9500;
     padding: 0 20px 20px 20px;
     border: 5px solid red;
@@ -73,7 +73,7 @@ ul li a:hover {
 
 h1 {
     margin: 0;
-    padding: 20 px 0;
+    padding: 0 20px;
     color: #EF5324;
 }
 
